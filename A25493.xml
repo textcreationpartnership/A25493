@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another out-cry of the innocent &amp; oppressed being a true account of the unjust and illegal proceedings of Richard Rainsford and Roger Norwich and others against Thomas Allen, Francis Child, Richard Coe, and William Line, being such as are called Quakers, at the general Quarter Sessions holden at the castle in Northampton on the 12. and 13 days of the 10th moneth, 1665, where Rich. Rainsford sat in judgment and when Richard Rainsford saw that the plague was somewhat ceased, as Pharaoh did Exodus 9, 34, he hardened his heart, and those called justices joyned with him so their hearts were hardened that they attempted the second time unjustly to pass sentence to transport the servants of the Lord to the island of Barbados.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25493</idno>
+            <idno type="STC">Wing A3273</idno>
+            <idno type="STC">ESTC R16388</idno>
+            <idno type="EEBO-CITATION">13618157</idno>
+            <idno type="OCLC">ocm 13618157</idno>
+            <idno type="VID">100803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 832:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another out-cry of the innocent &amp; oppressed being a true account of the unjust and illegal proceedings of Richard Rainsford and Roger Norwich and others against Thomas Allen, Francis Child, Richard Coe, and William Line, being such as are called Quakers, at the general Quarter Sessions holden at the castle in Northampton on the 12. and 13 days of the 10th moneth, 1665, where Rich. Rainsford sat in judgment and when Richard Rainsford saw that the plague was somewhat ceased, as Pharaoh did Exodus 9, 34, he hardened his heart, and those called justices joyned with him so their hearts were hardened that they attempted the second time unjustly to pass sentence to transport the servants of the Lord to the island of Barbados.</title>
+               </titleStmt>
+               <extent>[2], 16 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rainsford, Richard, --  Sir, 1605-1680.</term>
+               <term>Norwich, Roger, --  Sir, 1636-1691.</term>
+               <term>Allen, Thomas.</term>
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100803:1"/>
+            <pb facs="tcp:100803:1" rendition="simple:additions"/>
+            <p>ANOTHER OUT-CRY OF THE Innocent &amp; Oppreſſed.</p>
+            <p>BEING A true Account of the unjuſt and illegal pro<g ref="char:EOLhyphen"/>ceedings of <hi>Richard Rainsford</hi> and <hi>Roger Nor<g ref="char:EOLhyphen"/>wich,</hi> and others; againſt <hi>Thomas Allen, Francis Child, Richard Coe,</hi> and <hi>William Line,</hi> being ſuch as are called QUAKERS, at the GENERAL Quarter Seſſions Holden at the CASTLE In NORTHAMPTON ON The 12. and 13 days of the 10th. moneth 1665. where <hi>Rich. Rainsford</hi> ſat in Judgment, AND When <hi>Richard Rainsford</hi> ſaw that the <hi>Plague</hi> was ſomewhat ceaſed, (as <hi>Pharaoh</hi> did <hi>Exodus</hi> 9.34.) he hardened his heart, and thoſe called Juſtices that joyned with him, ſo their hearts were hardened that they attempted the ſecond time unjuſtly to paſs Sentence to Tranſport the Servants of the Lord to the Iſland of <hi>Barbados.</hi>
+            </p>
+            <p>Printed in the Year 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100803:2"/>
+            <pb n="1" facs="tcp:100803:2" rendition="simple:additions"/>
+            <head>Another Out-cry of the Innocent and Op<g ref="char:EOLhyphen"/>preſſed, &amp;c.</head>
+            <p>UPon the 13. day of the 10th. Moneth in the Afternoon, when the other buſineſs of the Country was ended, the Priſoners were brought from the Goal where they had been kept near five Moneths, and being come were ſet to the Bar, <hi>Richard Raynsford</hi> who was Judge, commanded the Goaler to take off their Hates, which was done, then one of the Priſoners named <hi>Thomas Allen,</hi> ſaid unto them, if ye were men of Wiſdom and underſtanding, ye would not ſeem to take notice of ſuch a beggerly Rudiment as the Hat; whereat ſome of them laughed like Children in a Play; but the Court being ſilent again, the Judge commanded the Clerk to read the Indictment, which was done, the ſubſtance of it was, that the Priſoners being formerly taken, at an unlawful aſſembly, Meeting, or Conventicle at the Houſe of <hi>Thomas Allen</hi> in <hi>Dingly,</hi> together with divers Malefactors, to the number of 30. perſons, or above, and being thereof twice lawfully convicted before <hi>Obrian Cockain,</hi> Lord Viſcount <hi>Cullaine, Roger Norwich</hi> Baronet, and <hi>Lewis Palmer</hi> Eſquire, and being ſince that taken again at the ſame place, and committed to Priſon by the ſaid <hi>Roger Norwich,</hi> and <hi>Lewis Palmer,</hi> as diſturbers of the publick peace, ſtood lawful<g ref="char:EOLhyphen"/>ly indicted for the ſame, &amp;c. much more of falſhood and lies was added unto it, as it is ordinarily known to them that are acquain<g ref="char:EOLhyphen"/>ted with their Practice; nevertheleſs, the <hi>Judge</hi> ſpake to <hi>Thom. Allen,</hi> Are you guilty of this Indictment or not? to which he an<g ref="char:EOLhyphen"/>ſwered, <hi>The Indictment I find is falſe, and may have as many lies in it as lines;</hi> at which the <hi>Judge</hi> ſeemed angry, ſaying, Lies, lies! the Priſoner anſwered, <hi>A lie is a lie, and how ſhould I otherwiſe ex<g ref="char:EOLhyphen"/>preſs it:</hi> then the <hi>Judge</hi> ſaid again, Well, are you guilty or not? then the Priſoner anſwered, <hi>I am not guilty of what is contained in the Indictment.</hi> Then the <hi>Judge</hi> called <hi>Francis Child,</hi> Art thou guilty or not guilty? To which he anſwered, I have ſomething
+<pb n="2" facs="tcp:100803:3" rendition="simple:additions"/> to ſay before I plead to that; I am very glad the Lord hath found me worthy at this day to bear witneſs to his truth againſt a hard hearted and cruel Generation; I deſire we may be removed from our ſtrict Impriſonment to work for our bread, for I believe we might find more mercy amongſt the <hi>Turks.</hi>
+            </p>
+            <p>The <hi>Judge</hi> ſaid again, <hi>are you guilty or not of this Indictment?</hi>
+            </p>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am not guilty, for there are many lies in it, therefore I fear you not, do your work that you may have your wages, for the Lord hath yet more Arrows to ſhoot at you.</p>
+            </sp>
+            <sp>
+               <speaker>Judge</speaker>
+               <p>called to <hi>William Line,</hi> ſaying, <hi>are you guilty or not guilty?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am not guilty, I have been but twice convicted by your Law.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What have you to ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <p>I am a Labouring man and have a Wife and five Children, and if you take me from my labour it may go hard with them.</p>
+            </sp>
+            <p>
+               <hi>Richard Coe</hi> being demanded the ſame as the other by the <hi>Iudge,</hi> he anſwered, that he was not guilty.</p>
+            <p>Then a ſort of poor Country men, whom they had prepared on purpoſe for their ſervice, were called and ſworn to this effect, that they ſhould well and truly try betwixt the King and the Pri<g ref="char:EOLhyphen"/>ſoners at the Bar, according to the Evidence; exceptions were made againſt ſome of them by the Priſoners, knowing them to be men as were not capable of doing ſuch a ſervice, telling the Court that by a Law lately made they might not ſerve, having not Land of ſuch a value; but one <hi>Randolph</hi> a known enemy to the truth of God, executing the Clerks Office, ſaid, <hi>they may ſerve your turn;</hi> and would not allow of our exceptions, but proceeded to the ex<g ref="char:EOLhyphen"/>amination of Witneſſes that were brought in againſt us, which be<g ref="char:EOLhyphen"/>ing done, <hi>Thomas Allen</hi> having the Act there, read and ſhewed to the Court and Jury a Proviſo in it, in theſe words following, <hi>Provided alwayes that no perſon ſhall be puniſhed for any offence againſt this Act, unleſs ſuch Offenders be proſecuted for the ſame within three Moneths after the Offence committed.</hi> Nevertheleſs, the <hi>Judge</hi> re<g ref="char:EOLhyphen"/>fuſed to allow us the benefit of the Law in that particular, al<g ref="char:EOLhyphen"/>though we had been in Priſon near five Moneths, and had ſo much exceeded the limit of the Act, and pleaded againſt us, ſaying, the Seſſions was adjourned becauſe of the Sickneſs, and upon that ac<g ref="char:EOLhyphen"/>count the day upon which they ſhould have been kept, and this, are both one day; which were more then two Moneths after: then
+<pb n="3" facs="tcp:100803:3" rendition="simple:additions"/> 
+               <hi>Thomas Allen</hi> anſwered, Nay, they are two dayes beſides many dayes betwixt: nevertheleſs the <hi>Judge</hi> knowing they had a Jury upon whom they could ſet their own ſtamp as eaſily as upon a lump of Clay, ſtood oppoſite to the thing, although allowed and approved by ſeveral others upon the like occaſion; then the <hi>Iudge</hi> ſaid, <hi>you are ſuch as will not be ſubject to the King's Lawes:</hi> to which <hi>Thomas Allen</hi> anſwered, art thou a man ſiting in Judgment and haſt no more to ſay againſt us, the very Rabble in the Streets can ſay as much as that; but tell us if thou canſt what Lawes of the Nati<g ref="char:EOLhyphen"/>on there are which we are not more ſubject to then you your ſelves, ſave only thoſe which concern the Worſhip of God, which King and Parliament have nothing at all to do with, for what po<g ref="char:EOLhyphen"/>wer and authority is that which will dare to take upon them to preſcribe a way for God's Worſhip? I ſay, this is Antichriſt, the higheſt preſumption in all the earth: then the <hi>Judge</hi> ſaid, <hi>do not you preſcribe a way:</hi> the Priſoner anſwered, nay, we preſcribe none. Then the <hi>Judge</hi> ſpoke to the <hi>Jury</hi> to go forth.</p>
+            <p>
+               <hi>Thomas Allen</hi> ſaid, what need they to go forth, are we not clear<g ref="char:EOLhyphen"/>ly acquited by the Act? to which the <hi>Judge</hi> would give no An<g ref="char:EOLhyphen"/>ſwer; the <hi>Jury</hi> ſtanding ſtill in the Court, <hi>Randolph</hi> the Clerk told them they muſt go forth; then they begun to go away, but <hi>Thomas Allen</hi> called them to ſtay a while, which they did, then he ſpake to them in theſe words, <hi>Friends,</hi> I would have you to take notice of the great Judgments of God which have come upon this Nation ſince theſe cruel Lawes were made and put in execu<g ref="char:EOLhyphen"/>tion againſt us, you know we had ſome years agone a great and tempeſtuous wind by which many Trees were torn up by the Roots, and Houſes laid on heaps; after that a ſtrange infectious diſeaſe fell among Horſes, ſuch a one as hath not uſually been heard of, whereby many hundreds died in ſeveral places, to the great damage of Husbandmen and others; after that a great rot of Sheep for two years together, by which many men were ruined, whoſe ſubſtance conſiſted principally in thoſe Cattle; and now of late a ſore Judgment of the <hi>Plague,</hi> ſuch as never was in the memory of man, in ſo much that the <hi>Plagues</hi> of <hi>England</hi> hath been well nigh equal to the <hi>Plagues</hi> of <hi>Egipt;</hi> and beſides all theſe, the trade and proſperity of the Nation is ſo much decayed, that things never looked with ſuch a face in <hi>England</hi> as they do at this day. But whiles he was thus ſpeaking to them, they were commanded to
+<pb n="4" facs="tcp:100803:4" rendition="simple:additions"/> go forth, ſo they went and ſtayed a pretty while, and at their coming in, it was asked whether or no they were agreed upon their verdict? they anſwered, yes; then the <hi>Clerk</hi> asked them<g ref="char:punc">▪</g> who ſhould ſpeak for them? but they being men altogether un<g ref="char:EOLhyphen"/>acquainted with ſuch a ſervice, made no Anſwer; then it was asked again if the Foreman ſhould ſpeak for them? they ſaid, Yes; then ſaid the <hi>Clerk,</hi> how do you find them? the Foreman ſaid Guilty twice; well then ſaid the <hi>Clerk,</hi> you find them guilty? the Fore<g ref="char:EOLhyphen"/>man ſaid, Yes; upon this the <hi>Clerk</hi> recorded them all guilty, and the <hi>Judge</hi> paſſed ſentence upon them, <hi>to be Tranſported unto Barba<g ref="char:EOLhyphen"/>dos,</hi> and no more. The buſineſs being done, ſome of the <hi>Jurymen</hi> told the Priſoners that things were not rightly done according to their agreement, for the agreement was to acquit them; where<g ref="char:EOLhyphen"/>upon the Priſoners asked them why they did not ſpeak when they ſee ſuch a groſs miſcarriage in the Court? their anſwer was, they feared if they ſhould have ſpoken, the <hi>Judge</hi> would have laid them by the heels.</p>
+            <p>Here all may ſee the groſs malicious wickedneſs and corruption both of <hi>Richard Raynsford</hi> Judge, and <hi>Randolph</hi> that was <hi>Clerk.</hi>
+            </p>
+            <p>Firſt, in denying the Priſoners the benefit of the Law, which others have had at ſeveral times in the like caſe, and have been ac<g ref="char:EOLhyphen"/>quited thereupon without any other proceedings.</p>
+            <p>Secondly, in trying them by a Jury not allowed nor approved by the Law.</p>
+            <p>Thirdly, in not allowing the Priſoners their exception made againſt them, nor their lawful reaſons why.</p>
+            <p>Laſtly, in perverting the Judgment and verdict of the <hi>Jury,</hi> and paſſing ſentence thereupon.</p>
+            <p>Oh thou County of <hi>Northampton</hi> who art placed upon the mid<g ref="char:EOLhyphen"/>dle and top of the Nation, whoſe Waters falls from the Eaſt, Weſt, North and South, into the Ocean, thou haſt in this work of per<g ref="char:EOLhyphen"/>ſecution exceeded all the Counties of this Nation, thou wert the firſt that in all the South of <hi>England</hi> (eleven years ago) impriſoned the true Prophets of the Lord, whom the Lord had raiſed in the North Country, <hi>William Dewsberry, John Whitehead. Thomas Stubs,</hi> and <hi>Thomas Coodaire,</hi> with many more; the Devil hath had his chief Inland <hi>Garriſon</hi> in the midſt of thee, and his Inſtruments hath continually to this day caſt into thy Priſon the ſervants of the Lord, and they have there borne their faithful Teſtimonies for the
+<pb n="5" facs="tcp:100803:4" rendition="simple:additions"/> Lords truth, and no wickeder cruel Goalers hath been found in <hi>England</hi> then hath been there to this day; and the Prieſts there hath put to their ſtrength at all times to drive on the Magiſtrates to perſecute, and never had they one more at their command then Judge <hi>Raynsford</hi> is for them at this day; who hath been the alone Magiſtrate that hath cauſed Perſecution of the Lords People, and to execute the cruel and unmerciful Act in baniſhing of them. <hi>John Whitfield</hi> Prieſt of <hi>Bugbrook,</hi> and one <hi>Richard Harris</hi> and <hi>Thomas Hog,</hi> the Prieſts of <hi>Keſlinberry</hi> and <hi>Farthingston,</hi> are they which ride upon the back of the Beaſt to make him be the executioners of their bloody intents; theſe Prieſts have caſt into the Priſon this laſt year divers of the Lords people, becauſe they could not for Conſcience ſake pay them Tythes at the beginning of Harveſt, and when they were in Priſon, they carryed away the poor peoples Grain, in ſome places above half that grew upon their Land; and ſome asked them why they did ſo? they an<g ref="char:EOLhyphen"/>ſwered that they might take what they would, there was no Law for the <hi>Quakers</hi> now; and ſtill keeps their bodies in Priſon to this day. Thus O County of <hi>Northampton</hi> thou wilt one day be even a ſhame to the Nation; but this we ſay in honour of thoſe Magiſtrates that have been true ſuffering Royaliſts, not one of them that formerly ſuffered for the late King, but hath and doth ſhew themſelves like men in their places, and will have no hand in Perſecution, but thoſe that have been <hi>Turncoats</hi> of the <hi>Amalekiteſt</hi> breed, they are the men that drive on the Devils work of Perſe<g ref="char:EOLhyphen"/>cution in this Country; for they having never done no good for their King before: Now they think there is no other way to me<g ref="char:EOLhyphen"/>rit and get into the favour of the King, but by perſecuting of the people of the Lord, and at laſt they will prove the greateſt ene<g ref="char:EOLhyphen"/>mies to the King in the Nation, and a hiſſing unto all people. In this County was the firſt bloodſhed in the beginning of the late War that was ſhed in <hi>England,</hi> and at <hi>Nasby</hi> the late King upon the very top of <hi>England,</hi> had his laſt and total overthrow; upon the top of this Nation <hi>John Lambert</hi> was taken, and had his great and laſt overthrow; four years ago the Lord ſent a Rain in <hi>May</hi> that drowned a Town called <hi>Weedon,</hi> and other Towns on the top of <hi>England</hi> to the damage of many thouſands of pounds, and never did no hurt in places where it went lower; and now this laſt Viſitation this year no leſs then 16. <hi>Towns</hi> were viſited with
+<pb n="6" facs="tcp:100803:5" rendition="simple:additions"/> the <hi>Plague,</hi> and yet they repent not of their wickedneſs, but ſtill go on to provoke the Lord.</p>
+            <div type="part">
+               <head>The Cauſe of the Innocent ſpread before the Lord, and the unjuſt Proceedings of the Rulers againſt them, before all People.</head>
+               <p>
+                  <hi>Luke</hi> 18.7. <hi>Now ſhall not God avenge his Elect which cry day and night unto him, yea though he ſuffers long for them, I tell you he will avenge them quickly.</hi> Therefore all ye Rulers of this Nation of <hi>England</hi> that have ſet your ſelves in battle ray with all your might and power againſt the Lord and againſt his ſeed, that according to what his true Prophet <hi>Jeremiah</hi> declared, the Lord hath raiſed in this Northern Iſland, which he hath ſaid muſt dwell in their own Land, you through the envy and wickedneſs that rules in your hearts ſeeks to <hi>murther, baniſh, impriſon, perſecute,</hi> and <hi>to root out,</hi> and <hi>to deſtroy</hi> this ſeed whom the Lord hath raiſed, and that he hath bleſſed and will bleſs now, henceforth and for evermore.</p>
+               <p>Now that your wickedneſs may appear even to your own veiw, and that you may be aſhamed for that which you have done, and are a doing againſt the Lord and againſt his people here amongſt you; I would have you to conſider what the Lord hath done for you ye <hi>Rulers of England,</hi> remember, were you not in a low con<g ref="char:EOLhyphen"/>dition not many years ſince, and was it then in your hearts to do to us as now you have done, if the Lord would but reſtore you in<g ref="char:EOLhyphen"/>to your power and places again? if you were at that time ſo reſol<g ref="char:EOLhyphen"/>ved to do, your tongues and declaration did not at that time de<g ref="char:EOLhyphen"/>clare the ſame thing, but it was promiſed that none ſhould ſuffer for his Religion, in caſe he lived peaceably in the Nation, and theſe promiſes were not by force forced from you, but it was done freely by you, and it was the Lord that made the termes with you, and not man, and after that time the Lord gave your enemies into your hands, and without your Sword or Bow, or the valour of your men of War, the Lord brought you again in<g ref="char:EOLhyphen"/>to your poſſeſſion, and the Lord performed what he had decreed, as concerning your Reſtauration; and it had been well for you and this Nation if you had performed what you had promiſed to the Lord in the behalf of his people; but to this day the Lords people hath and doth grievouſly ſuffer under your power, who hath lived peaceably under you, and hath never at any time mo<g ref="char:EOLhyphen"/>leſted your Authority, neither have they ever made any plot or
+<pb n="7" facs="tcp:100803:5" rendition="simple:additions"/> Conſpiracies againſt you or your Authority, nor never joyned with any that did, to this day, and yet ye have made us the only mark that ye ſhoot at, contrary to what ye have promiſed unto us; and before the Righteous God we have ſpread our innocent cauſe and ſufferings, and he hath heard our cry, and now he is ariſen to plead our Cauſe, and wo and miſery and deſtruction will aſ<g ref="char:EOLhyphen"/>ſuredly be the portion of all thoſe that are found fighting againſt him, as you are at this day.</p>
+               <p>Hear O yee Rulers of <hi>England</hi> the Lords controverſie againſt you, you have contrary to your promiſes abuſed, perſecuted, im<g ref="char:EOLhyphen"/>priſoned his ſervants, and you have made an unrighteous Law to baniſh them forth of the Land, and you have put in execution this your unnatural Law, &amp; are ſtill putting it into execution, you have hardned your hearts far beyond <hi>Pharaoh,</hi> and your cruelty to<g ref="char:EOLhyphen"/>wards the Lords people hath far exceeded his towards <hi>Iſrael,</hi> he never impriſoned the <hi>Iſraelites,</hi> neither did he ever ſhut them up that they might not labour for their livelihood, but you have ſhut up thouſands of the Lords people in <hi>Priſons</hi> and <hi>Dungeons,</hi> and there they are at this day, and by that means they cannot labour with their hands to get bread for themſelves and their families, and yet you are ſo cruel that you force your taxes from them: O cruelty far exceeding <hi>Egipts</hi> bondage; and <hi>Pharaoh</hi>'s ſin was, he would not have had <hi>Iſrael</hi> gone from him out of his Country, when the Lord ſent for them by <hi>Moſes;</hi> but your ſin is this, you have made a Law to force the Lords people out of their Native Country, where the Lord hath raiſed them, and placed them; therefore as you have exceeded them in cruelty, towards the Lords people, ſo will the Lord multiply his Plagues upon you as upon <hi>Egipt,</hi> untill you be made to let <hi>Iſrael</hi> alone to Worſhip the Lord, as his good Spirit ſhall lead and direct them; and notwith<g ref="char:EOLhyphen"/>ſtanding you have thus rebelled againſt the Lord, and abuſed his ſervants ever ſince the Lord hath reſtored you into power, yet hath the Lords mercy been ſhewed towards you, and his good ſpirit hath a long time ſtriven with you, and the Lords ſervants whom you call <hi>Quakers</hi> have at all times been faithful unto you, and they have told you the mind of the Lord, and what would come upon you in caſe you went on with your wicked work of perſecution of the Innocent, but to this day you have regarded them not, but have perſecuted and abuſed them, both Rulers,
+<pb n="8" facs="tcp:100803:6" rendition="simple:additions"/> Prieſts, and People, and you have dealt far worſe and cruel with them then <hi>Pharaoh</hi> did by <hi>Moſes</hi> and <hi>Aaron,</hi> and now the Lords wrath is kindled againſt you, and there is like to be no remedy, for you have hardned your hearts againſt the Lord, and you have not believed his Prophets, therefore you cannot proſper; thy Judges O <hi>England</hi> have perverted the Law, and by that means hath made many widdows and fatherleſs Children, and their cry hath entred into the ears of the Lord of Hoſts, who now will ſurely plead their Cauſe, and will reward into thy boſom for the wrong thou haſt done unto his Choſen, and as thou haſt (notwithſtanding thy warnings) hardned thy heart againſt the Lord and his people, ſo now hath he given thee up to hardneſs of heart, the greateſt of all Judgments, and the neareſt to deſtruction, and thou haſt ſhut thy eyes againſt the light, and would neither ſee nor hear, nor take notice of the mighty works of the Lord that he hath made mani<g ref="char:EOLhyphen"/>feſt in thee, and now great is the darkneſs that hath covered thee; <hi>John</hi> ſaw in the <hi>Revelation</hi> three unclean Spirits like Frogs come out of the mouth of the Dragon, Beaſt and falſe Prophets, and they have come unto thee to ſtir thee up to battle againſt the great day of God Almighty, and to two of theſe thou haſt lent thy ear, and took their Councel, O how hath thy falſe Prophets deceived thee, and perſwaded thee to carry on thy work of perſecution, and baniſhing the righteous out of thy Land, and though the Lord ap<g ref="char:EOLhyphen"/>peared in his Judgments againſt thee ever ſince the very week that thou begins to baniſh his ſervants, yet have they not given over, but both in Cityes and Countryes they have made it their work to preach to the People that the Plague would not ceaſe, but did increaſe becauſe the Rulers had not baniſhed the <hi>Quakers</hi> forth of the Land, and ſo Judge <hi>Rainsford</hi> ſaid this Seſſions in open Court that the <hi>Reaſon was that Gods Judgments were ſo in the Nation be<g ref="char:EOLhyphen"/>cauſe they had not removed the</hi> Quakers <hi>out of the Land;</hi> but he and other Judges and Rulers being blind, cannot or will not ſee what is the cauſe, no more then <hi>Pharaoh</hi> could when the Lord ſtruck off his Chariot Wheels when he was purſuing <hi>Iſrael</hi> into the Sea. For ye Judges and Rulers, if that is the cauſe that Gods Judgments are ſo upon the Nation, then why did you not make more haſt to remove Gods Judgment; have not you ſeen how the Lord hath fought againſt you ever ſince you have gone about this curſed work of Perſecution, and eſpecially of baniſhing the Lords people,
+<pb n="9" facs="tcp:100803:6" rendition="simple:additions"/> have you ever proſpered ſince you have begun in any thing that ever you have put your hands unto, how hath the Lord fought againſt you; will all his four Elements, as Winds, Fire, and Wa<g ref="char:EOLhyphen"/>ters, and thoſe creatures that have fed upon the Earth, how have they been corrupted and brought to nothing, to the impoveriſh<g ref="char:EOLhyphen"/>ing of thy Inhabitants, how hath thy Trading decayed both in Cityes and Countryes, ſo that the peoples hearts even now be<g ref="char:EOLhyphen"/>gins to fail them, and theſe going before to forewarn thee, but thou taking no notice of them, how hath the Lord ſmote thee late<g ref="char:EOLhyphen"/>ly in thy Cityes with the Plague, and laid thouſands upon heaps in a ſhort ſpace, but this thy Rulers have taken little notice of neither; and now the Lord hath much taken this Judgment of the Plague off on thee, once more to try thee if thou will let his peo<g ref="char:EOLhyphen"/>ple go free, but being taken off, thy Rulers begins again to har<g ref="char:EOLhyphen"/>den their hearts, and already make haſt to go on with their cur<g ref="char:EOLhyphen"/>ſed work of ſentencing the people of the Lord in this County of <hi>Northampton</hi> to Baniſhment, as is ſeen by <hi>Richard Rainsford</hi> this Seſſions, who ſaid the cauſe was why he did not do it at <hi>Michaelmas</hi> Seſſions was, becauſe of the Plague which that time was hot in the Country, but now he is the firſt in the Nation that is heard of that begins this wicked work, as <hi>Pharaoh</hi> did when the Plague was taken off, but it cannot be but taken notice of, that though the Plague had ceaſed in <hi>London</hi> many weeks before, yet that week that this wicked Judge began his curſed work to ſentence the in<g ref="char:EOLhyphen"/>nocent again, that very week the Lord made an encreaſe of the Plague again in the <hi>Chief City,</hi> to let him and all other wicked Rulers know that their work of perſecution is the cauſe of the Lords ſending and continuing of his Judgments upon this Land, and it had been well if the Rulers in this Nation after they had ſo grievouſly ſinned againſt the Lord in perſecuting of his people, and by that work had cauſed Gods Judgments to be poured down upon them, and if they had repented of their evil works, and with <hi>David</hi> had been willing to have fallen into the hands of the Lord, it might have been that the Lord would have been merciful unto them, and the Lords wrath might have been appeaſed towards them and the Land, but they have and do ſtill rebell againſt the Lord, and ſay in their hearts ſtill, <hi>We know not the Lord,</hi> and <hi>who is the Lord that we ſhould obey him?</hi> and will do what they can to drive on their Chariots, (though the Lord hath ſtruck off their
+<pb n="16" facs="tcp:100803:7" rendition="simple:additions"/> Wheels) to the purſuing of <hi>Iſrael,</hi> and think becauſe they <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> taken their flight and have run with the ſwifteſt from this <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the Lord hath no other that can take hold on them, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord hath other Plagues in ſtore for ſuch Perſecuters as <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ceaſe nor repent, as he had for <hi>Pharaoh</hi> after he had eſcaped <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> plague of ſmiting the firſt-born in <hi>Egipt,</hi> and if you go on with <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> work ſtill, of <hi>perſecuting, impriſoning,</hi> and <hi>baniſhing</hi> Gods pe<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> you ſhall ſurely find that made good upon you, which the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Lord <hi>George Biſhop</hi> writ unto the King and both Hou<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliament the laſt year the 25th. of the 9th. moneth 1664. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words were theſe, <hi>Meddle not with my People, becauſe of them <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſcience to me, and baniſh them not of this Nation, becauſe of their <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſcience, for if you do,</hi> I <hi>will ſend my Plagues upon you, and y<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> know that I am the Lord.</hi> And ſurely in a large meaſure this <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pheſie is fulfilled upon this Nation ever ſince the Rulers have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>niſhed the Lords people, and if you go on it will be fulfilled <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you to the uttermoſt, Therefore, O <hi>England,</hi> believe no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy falſe Prophets who cries peace unto thee, and ſaith it ſh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well with thee, though thou ſtill goes on with thy curſed wo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perſecution, for thoſe who are thy beſt friends and cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee, ſees thee to be in a ſad condition by reaſon of thy ſin, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy ſurfeting thy ſelf with the abundance of Gods mercies w<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> he beſtowed upon thee five years ago, and ever ſince thou haſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> falling into a Conſumption, and now thou art become ſo feeb<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nation of <hi>England,</hi> as not able to help thy ſelf, and excep<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord by his power reſtore thee (which he will not if tho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perſiſts in the wicked work of perſecution) thou wilt aſſur<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> come to ruine and deſtruction.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
